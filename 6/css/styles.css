@@ -1,0 +1,25 @@
+.card{
+    margin: 10px;
+}
+.utama{
+    border:solid 1px #ddd;
+    padding: 100px;
+}
+.sekond{
+    border:solid 1px #ddd;
+    padding: 10px;
+}
+.three{
+    padding: 6%;
+}
+.title{
+  padding: 20px;
+  text-align: center;
+}
+.luas{
+	width: 100%;
+}
+.skill,.nama{
+    height: 50%;
+    padding: 10px;
+}

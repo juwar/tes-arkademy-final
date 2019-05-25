@@ -1,0 +1,3 @@
+SELECT user.name AS nama_programmer ,
+COUNT(user.name) AS jumlah_skill 
+FROM user,skill WHERE user.id = skill.user_id GROUP By user.id 
