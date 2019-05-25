@@ -2,7 +2,7 @@
 REST (REpresentational State Transfer) merupakan standar arsitektur komunikasi berbasis web yang sering diterapkan dalam pengembangan layanan berbasis web.
 
 ## Kegunaan JSON pada REST API
-Pada REST API, JSON digunakan sebagai format untuk bertukar data clint dan server atau anatar aplikasi
+Pada REST API, JSON digunakan sebagai format untuk bertukar data clint dan server atau antar aplikasi
 
 # Note
 * No 1-5 menggunakan bahasa pemrograman Javascript
