@@ -23,8 +23,10 @@ function tanggal(awal,akhir){
             } else {
                 mak = 31
             }
-
-            if(tanggal_a >= mak ){
+            if(bulan_a > 12 ){
+                tahun_a++
+                bulan_a = 1
+            } else if(tanggal_a >= mak ){
                 bulan_a++
                 tanggal_a = 0
             } else {
@@ -52,4 +54,4 @@ function tanggal(awal,akhir){
 
 }
 
-tanggal('2019-06-29','2019-07-04')
+tanggal('2019-12-28','2020-01-04')
